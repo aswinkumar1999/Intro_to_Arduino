@@ -6,7 +6,7 @@
 #include <WiFiUdp.h>
 
 // create an account at thingspeak.com and link your twitter account to get your API key, replace the x's
-String API = "1C7M7N5YHTTI6SWS";
+String API = "xxxxxxxxxxxxxxxs";
              
 
 // enter your ssid and password
