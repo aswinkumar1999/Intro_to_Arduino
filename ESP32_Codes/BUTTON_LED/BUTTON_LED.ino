@@ -1,13 +1,13 @@
-// We assigned a name LED pin to pin number 22
+// We assigned a name LED pin to pin number 2
 const int LEDPIN = 2; 
-// this will assign the name PushButton to pin numer 15
+// this will assign the name PushButton to pin numer 4
 const int PushButton = 4;
 // This Setup function is used to initialize everything 
 void setup()
 {
-// This statement will declare pin 22 as digital output 
+// This statement will declare pin 2 as digital output 
 pinMode(LEDPIN, OUTPUT);
-// This statement will declare pin 15 as digital input 
+// This statement will declare pin 4 as digital input 
 pinMode(PushButton, INPUT_PULLDOWN);
 }
 
